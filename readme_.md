@@ -21,7 +21,7 @@ Em 2021 eu começei a me interessar pela área tech brasileira e acabei conhecen
 ### PROJETOS
 
 - [Biblioteca Python Google Tools Wrapper](https://pypi.org/project/google-tools-wrapper/)
-- [Repositório Desse Site (feito com React)](https://github.com/xongs08/zacchello.dev)
+- [Repositório Desse Site (feito com React)](https://github.com/xongs08/zacchello)
 
 ### Fim
 Obrigado por passar por aqui!
