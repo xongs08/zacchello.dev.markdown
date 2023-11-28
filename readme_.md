@@ -5,7 +5,6 @@ Então você veio parar na minha página? Eis a questão, como veio parar aqui? 
 ## Quem sou eu?
 
 - Nome: João Zacchello;
-- Idade: 14 anos;
 - Idiomas: Português 🇧🇷, inglês 🇺🇸, espanhol 🇪🇸;
 - Tecnologias: [Python3+](https://www.python.org), [ReactJS](https://react.dev), [NodeJS]([https://nodejs.org](https://nodejs.org/en/about)) e [Angular CLI](https://angular.io);
 
