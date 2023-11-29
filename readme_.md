@@ -27,4 +27,5 @@ Obrigado por passar por aqui!
 
 ## Minhas redes!
 [Instagram (@_xongs)](https://instagram.com/_xongs/)\
-[Github (xongs08)](https://github.com/xongs08)
+[Github (xongs08)](https://github.com/xongs08)\
+[Twitter (@_xongs)](https://twitter.com/_xongs)
