@@ -25,8 +25,6 @@ Em 2021 eu começei a me interessar pela área tech brasileira e acabei conhecen
 ### Fim
 Obrigado por passar por aqui!
 
-João Zacchello 🚀
-
 ## Minhas redes!
 [Instagram (@_xongs)](https://instagram.com/_xongs/)\
 [Github (xongs08)](https://github.com/xongs08)
