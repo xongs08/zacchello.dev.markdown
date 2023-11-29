@@ -6,7 +6,7 @@ Então você veio parar na minha página? Eis a questão, como veio parar aqui? 
 
 - Nome: João Zacchello;
 - Idiomas: Português 🇧🇷, inglês 🇺🇸, espanhol 🇪🇸;
-- Tecnologias: [Python3+](https://www.python.org), [ReactJS](https://react.dev), [NodeJS](https://nodejs.org/en/about) e [Angular CLI](https://angular.io);
+- Tecnologias: [Python3+](https://www.python.org), [ReactJS](https://react.dev) e [NodeJS](https://nodejs.org/en/about);
 
 ## Livros que recomendo muito:
 - [Entendendo Algoritimos](https://a.co/d/ehiNyci), um guia ilustrado para programadores e outros curiosos;
