@@ -27,6 +27,6 @@ Obrigado por passar por aqui!
 
 João Zacchello 🚀
 
-## Me contate!
-[Instagram](https://instagram.com/_xongs/)\
-[Github](https://github.com/xongs08)
+## Minhas redes!
+[Instagram (@_xongs)](https://instagram.com/_xongs/)\
+[Github (xongs08)](https://github.com/xongs08)
