@@ -26,6 +26,8 @@ Em 2021 eu começei a me interessar pela área tech brasileira e acabei conhecen
 Obrigado por passar por aqui!
 
 ## Minhas redes!
-[Instagram (@_xongs)](https://instagram.com/_xongs/)\
 [Github (xongs08)](https://github.com/xongs08)\
+\
+[Instagram (@_xongs)](https://instagram.com/_xongs/)\
+\
 [Twitter (@_xongs)](https://twitter.com/_xongs)
